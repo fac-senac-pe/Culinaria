@@ -1,0 +1,3 @@
+Teste GitEasy
+
+Olá eu sou um arquivo para teste!
